@@ -23,12 +23,12 @@
 		<HtmlSceneDivider></HtmlSceneDivider>
 		<HtmlEncoding></HtmlEncoding>
 		<HtmlUnicode>0</HtmlUnicode>
-		<LastFullBackup>2019-10-01</LastFullBackup>
+		<LastFullBackup>2019-10-03</LastFullBackup>
 		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
 		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
 		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
 		<MRUSpecificTime>00:00:00</MRUSpecificTime>
-		<LastViewedScID>0</LastViewedScID>
+		<LastViewedScID>2</LastViewedScID>
 		<DeadlineDate1>0001-01-01</DeadlineDate1>
 		<DeadlineDate2>0001-01-01</DeadlineDate2>
 		<DeadlineDate3>0001-01-01</DeadlineDate3>
@@ -553,6 +553,12 @@
 
 	<WC>
 		<Date>2019-10-01</Date>
+		<Count>1882</Count>
+		<TotalCount>1882</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-10-03</Date>
 		<Count>1882</Count>
 		<TotalCount>1882</TotalCount>
 	</WC>
